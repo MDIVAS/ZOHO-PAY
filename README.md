@@ -55,9 +55,9 @@
 ### The zohopay app is available in 11 Indian languages.Using zohopay, users can send and receive money, recharge mobile, DTH, data cards, make utility payments, pay at shops, invest in tax saving funds, buy insurance, mutual funds, and digital gold
 
 
+<img src="https://github.com/MDIVAS/ZOHO-PAY/assets/127883304/464d3ea6-c7d1-411d-a277-427da6f44dc8" alt="Logo" width="270" height="480">
 
 
-![images (1)](https://github.com/MDIVAS/ZOHO-PAY/assets/127883304/464d3ea6-c7d1-411d-a277-427da6f44dc8)
 
 ### ...........................................................................................................................
 
