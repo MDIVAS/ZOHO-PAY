@@ -41,7 +41,7 @@
 
 
 
-### Zohopay is a payments app that allows you to use BHIM UPI, your credit card, and your debit card or wallet to recharge your mobile phone, pay all your utility bills, and make instant payments at your favourite offline and online stores. You can also invest in mutual funds and buy insurance plans on zohoPay. Get car and bike insurance on our app.
+### Zohopay is a payment app that allows you to use BHIM UPI, your credit card, and your debit card or wallet to recharge your mobile phone, pay all your utility bills, and make instant payments at your favourite offline and online stores. You can also invest in mutual funds and buy insurance plans on zohoPay. Get car and bike insurance on our app.
 ### Link your bank account on Zohopay and transfer money with BHIM UPI instantly! The zohopay app is safe and secure, meets all your payment, investment, mutual fund, insurance, and banking needs, and is much better than Internet banking.
 
 
@@ -68,9 +68,8 @@
 ### YOU CAN DOWNLOAD IT ON ZOHO STORE AND PLAY STORE 
 
 
+![Download-on-the-App-Store-Get-it-on-Google-Play-Button-900x0](https://github.com/MDIVAS/ZOHO-PAY/assets/127883304/95c146d3-a5bd-4e34-ba33-4423ec31b584)
 
-
-<img src="https://github.com/MDIVAS/ZOHO-PAY/assets/127883304/b6969e9a-1a7a-4f82-80c4-841817dd6e18" alt="Logo" width="300" height="300">
 
 
 ## Usage
