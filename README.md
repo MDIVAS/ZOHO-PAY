@@ -67,8 +67,8 @@
 
 ### YOU CAN DOWNLOAD IT ON ZOHO STORE AND PLAY STORE 
 
+<img src="https://github.com/MDIVAS/ZOHO-PAY/assets/127883304/95c146d3-a5bd-4e34-ba33-4423ec31b584" alt="Logo" width="640" height="480">
 
-![Download-on-the-App-Store-Get-it-on-Google-Play-Button-900x0](https://github.com/MDIVAS/ZOHO-PAY/assets/127883304/95c146d3-a5bd-4e34-ba33-4423ec31b584)
 
 
 
